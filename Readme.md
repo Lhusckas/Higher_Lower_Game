@@ -8,4 +8,4 @@ In this project we'll be working with Instagram follower numbers, instead of mon
 
 # PLAYING THE GAME
 
-When playing the game, you will have to choose between A and B, respectively, Higher or Lower. If you chose the right answer, you'll gain one point and the game will proceed; Else, you'll lose.
+When playing the game, you will have to choose who has the highest followers on Instagram, choosing between A and B. If you chose the right answer, you'll gain one point and the game will proceed; Else, you'll lose.
